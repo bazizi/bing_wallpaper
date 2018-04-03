@@ -1,3 +1,2 @@
 # bing_wallpaper
-Python scripts that download Bing image of the day and set it as your wallpaper
-
+Bing_wallpaper explores image results based on Bing image of the day and sets it as your wallpaper. Written in python, this program can be run in both Linux and Windows operating systems.
